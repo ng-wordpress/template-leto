@@ -1,17 +1,17 @@
 {
-  "name": "@ng-wordpress/template-starter",
+  "name": "@ng-wordpress/template-leto",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "description": "A skeleton for an Angular Wordpress Theme",
   "author": "Andre Steudel <kontakt@andre-steudel.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ng-wordpress/template-starter.git"
+    "url": "https://github.com/ng-wordpress/template-leto.git"
   },
   "bugs": {
-    "url": "https://github.com/ng-wordpress/template-starter/issues"
+    "url": "https://github.com/ng-wordpress/template-leto/issues"
   },
-  "homepage": "https://github.com/ng-wordpress/template-starter",
+  "homepage": "https://github.com/ng-wordpress/template-leto",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
